@@ -25,7 +25,7 @@ steps:
   inputs:
     versionSpec: '$(python.version)'
     architecture: 'x64'
-    disableDownloadFromRegistry: true
+    githubToken: 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
   displayName: 'Use Python $(python.version)'
 
 - script: |
