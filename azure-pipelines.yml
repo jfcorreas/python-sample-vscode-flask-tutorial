@@ -7,6 +7,7 @@ trigger:
 - main
 
 pool:
+  name: Minastirith
   vmImage: ubuntu-latest
 strategy:
   matrix:
