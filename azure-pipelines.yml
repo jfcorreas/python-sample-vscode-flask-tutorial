@@ -24,7 +24,6 @@ steps:
 - task: UsePythonVersion@0
   inputs:
     versionSpec: '$(python.version)'
-    architecture: 'x64'
     githubToken: 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
   displayName: 'Use Python $(python.version)'
 
