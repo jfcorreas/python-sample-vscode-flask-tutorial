@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/jfcorreas/AZ-400/_apis/build/status%2Fjfcorreas.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/jfcorreas/AZ-400/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/jfcorreas/AZ-400/_apis/build/status/jfcorreas.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/jfcorreas/AZ-400/_build/latest?definitionId=1&branchName=main)
 
 # Python/Flask Tutorial for Visual Studio Code
 
